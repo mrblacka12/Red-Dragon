@@ -40,7 +40,7 @@ global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,
 global.sessionName = 'MR බ්ලැකා' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = 'MR බ්ලැකා❤️.' //In list menu
+global.footer = 'MR බ්ලැකා.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 global.ig = 'https://wa.me/+94785744530' //Github Account!
@@ -54,7 +54,7 @@ global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: 'ඉදපම් පොඩ්ඩක්🤧...',
+    wait: 'ඉදපම් පොඩ්ඩක්😒...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
